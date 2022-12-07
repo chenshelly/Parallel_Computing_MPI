@@ -6,6 +6,6 @@ heavy computations hence it's name heavy(int x,int y).
 
 we collected the difference in result execution time and made a comparison 
 
-created by Omer Nachshon and Chen Shelly.
+created by Chen Shelly and Omer Nachshon.
 
 
